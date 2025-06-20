@@ -4,12 +4,12 @@ A Java application that simulates basic bank operations like creating accounts, 
 
 ## Features
 
-- ✅ Open new bank accounts with unique account numbers
-- ✅ Deposit and withdraw funds (with minimum balance enforcement)
-- ✅ Select and switch between accounts
-- ✅ Close existing accounts (with smart array handling to avoid gaps)
-- ✅ Dynamic resizing of internal array when capacity is reached
-- ✅ List all current accounts with balance and total assets summary
+- Open new bank accounts with unique account numbers
+- Deposit and withdraw funds (with minimum balance enforcement)
+- Select and switch between accounts
+- Close existing accounts (with smart array handling to avoid gaps)
+- Dynamic resizing of internal array when capacity is reached
+- List all current accounts with balance and total assets summary
 
 ## Sample Output
 
@@ -63,6 +63,6 @@ Enter initial balance: 100.00
 Bank.java        # Contains all logic (main, Bank class, BankAccount class)
 ```
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
